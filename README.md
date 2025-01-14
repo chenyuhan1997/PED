@@ -26,6 +26,8 @@ Since 2023, I have been dedicated to low-light image enhancement, aiming to impr
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
 
 
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
+
 ## :fire::fire::fire: Low-Light Video Enhancement
 
 | Model               | Params                     | Core Contributor                                                 | Code                                                                                                                  | Release Data | 
@@ -34,6 +36,10 @@ Since 2023, I have been dedicated to low-light image enhancement, aiming to impr
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
+
+
+
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
 ## :fire::fire: Low-Light Scene Relighting
 
@@ -44,6 +50,8 @@ Since 2023, I have been dedicated to low-light image enhancement, aiming to impr
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
 
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
+
 ## :fire: Convolutional Kernel Design
 
 | Model               | Params                     | Core Contributor                                                 | Code                                                                                                                  | Release Data | 
@@ -53,9 +61,15 @@ Since 2023, I have been dedicated to low-light image enhancement, aiming to impr
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
 | **Coming Soon**     | ---------                  | [Yuhan Chen](https://github.com/chenyuhan1997/chenyuhan1997)     | **Coming Soon**                                                                                                       | 2025/--/--   |
 
+
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
+
 ## :newspaper: :newspaper: My Recent Blog
 - :star: - [弱光图像增强算法(6大算法附程序)，一站式解决论文实验比较部分](https://zhuanlan.zhihu.com/p/676780445)
 - :star: - [深度学习弱光图像增强入门学习贴及相关可参考工作推荐](https://zhuanlan.zhihu.com/p/678216658)
+
+
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
 
 ## Citations
 
